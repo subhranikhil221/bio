@@ -15,13 +15,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="nikhil22222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/nikhil22222" height="30" width="40" /></a>
-<a href="https://dev.to/https://app.daily.dev/subhrajeet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://app.daily.dev/subhrajeet" height="30" width="40" /></a>
+<a href="https://codepen.io/nikhil22222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/nikhil22222" height="30" width="40" /></a>
+<a href="https://app.daily.dev/subhrajeet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://app.daily.dev/subhrajeet" height="30" width="40" /></a>
 <a href="https://twitter.com/subhranikhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subhranikhil" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/subrajit-pandey-6a7950201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subrajit-pandey-6a7950201/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/subhrajitpandey.pandey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/subhrajitpandey.pandey/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/subhrajeet_pandey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/subhrajeet_pandey/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/subhranikhil2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/subhranikhil2001" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/subrajit-pandey-6a7950201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subrajit-pandey-6a7950201/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/subhrajitpandey.pandey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/subhrajitpandey.pandey/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/subhrajeet_pandey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/subhrajeet_pandey/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/subhranikhil2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/subhranikhil2001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
