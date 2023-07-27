@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/subhranikhil" target="blank"><img src="https://img.shields.io/twitter/follow/subhranikhil?logo=twitter&style=for-the-badge" alt="subhranikhil" /></a> </p>
 
-- 🌱 I’m currently learning **bootstrap ,django, react.js**
+- 🌱 I’m currently learning **bootstrap ,Django, react.js**
 
-- 💬 Ask me about **javascript, html, css, sql and php**
+- 💬 Ask me about **javascript, html, css, SQL, and PHP**
 
 - 📫 How to reach me **subhranikhil2001@gmail.com**
 
